@@ -31,7 +31,7 @@
 ![Communication](https://img.shields.io/badge/communication-pink?style=for-the-badge)
 ![collaboration](https://img.shields.io/badge/Collaboration-lightgray?style=for-the-badge)
 
-## Habilidades
+## Hard Skills
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
