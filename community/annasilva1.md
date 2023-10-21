@@ -8,11 +8,11 @@
 
 <div class= "anna">
 <h3> Sobre mim 👩‍💻<h3>
-<h4>Me chamo Anna, tenho 21 anos e atualmente curso análise e desenvolvimento de sistemas pela Unicesumar, estou em busca de aprimorar meus conhecimentos com novas linguagens. <h4>
+<h4>Me chamo Anna, tenho 21 anos e atualmente curso análise e desenvolvimento de sistemas pela Unicesumar, estou em busca de aprimorar meus conhecimentos em novas linguagens. <h4>
 </div>
 
 <div class= "habilitys">
-<h2>Habilidades<h2>
+<h2>Skills<h2>
 
 
 <div>
@@ -31,7 +31,7 @@
 ![Communication](https://img.shields.io/badge/communication-pink?style=for-the-badge)
 ![collaboration](https://img.shields.io/badge/Collaboration-lightgray?style=for-the-badge)
 
-## Habilidades
+## Technologies
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
